@@ -1,7 +1,7 @@
-# 🚀 Swisser-Web-01 - Premium FiveM RP Server Website Template
+# 🚀 Swisser-Web-03 - Premium FiveM RP Server Website Template
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-18.3-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/React-19.1-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-5.8-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Vite-7.1-646cff?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/TailwindCSS-3.4-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
@@ -9,200 +9,181 @@
 
 <div align="center">
   <h3>Transform Your FiveM Server's Online Presence</h3>
-  <p>The ultimate modern website template crafted specifically for FiveM roleplay servers</p>
+  <p>The ultimate street-inspired website template that converts visitors into loyal players</p>
   <a href="https://swisser.dev/discord"><strong>Get Support on Discord »</strong></a>
 </div>
 
 ---
 
-## 🎯 Why Choose Swisser-Web-01?
+## 🎯 Why Choose Swisser-Web-03?
 
-Running a successful FiveM server isn't just about great gameplay—it's about creating an immersive experience from the moment players discover your community. **Swisser-Web-01** delivers a stunning first impression that converts visitors into dedicated players.
+Your FiveM server deserves more than a generic website. **Swisser-Web-03** delivers the raw, authentic street aesthetic that resonates with the GTA roleplay community. This isn't just another template—it's your server's digital identity.
 
-Built with the latest web technologies and optimized for performance, this template gives your server the professional edge it deserves. No more outdated designs or clunky interfaces—welcome to the future of FiveM server websites.
+Watch your player count grow as visitors are captivated by smooth animations, live server stats, and a design that screams quality from the first second.
 
 ## ✨ Key Features That Set You Apart
 
-### 🎨 **Stunning Visual Design**
-- Cyberpunk-inspired aesthetic with customizable themes
-- Smooth GSAP animations that captivate visitors
-- Fully responsive design that looks amazing on all devices
-- Dark mode optimized for those late-night gaming sessions
+### 🎨 **Street-Inspired Brutal Design**
+- Authentic urban aesthetic with graffiti elements
+- Police tape transitions and mugshot-style team cards
+- Polaroid gallery with scattered photo effects
+- Dark theme optimized for the gaming community
 
-### ⚡ **Lightning-Fast Performance**
-- Built on Vite for blazing-fast load times
-- Optimized images and lazy loading
-- SEO-ready structure to boost your server's visibility
-- Progressive Web App capabilities
+### ⚡ **Performance That Delivers**
+- Lightning-fast load times with Vite 7.1
+- Live player count updates every 30 seconds
+- One-click FiveM server connection
+- GitHub Pages ready—deploy in minutes
 
-### 🛠️ **Developer-Friendly Architecture**
-- Clean, modular React components
-- TypeScript for rock-solid reliability
-- Tailwind CSS for effortless customization
-- Well-documented codebase that's easy to modify
+### 🛠️ **Built for Real Developers**
+- Clean, maintainable React components
+- Full TypeScript support with zero errors
+- Tailwind CSS for rapid customization
+- Professional CI/CD pipeline included
 
-### 📱 **Complete Feature Set**
-- **Hero Section** - Captivating landing with server status integration
-- **Features Showcase** - Highlight what makes your server unique
-- **Jobs System Display** - Present available roles and factions
-- **Rules Section** - Clear, organized server guidelines
-- **Team Showcase** - Introduce your staff with style
-- **Media Gallery** - Show off your server's best moments
-- **Legal Pages** - Professional terms of service and privacy policy
-- **Discord Integration** - Connect your community seamlessly
+### 📱 **Everything Your Server Needs**
+- **Hero Section** - Stunning landing with live server status
+- **Features Grid** - Showcase your unique selling points
+- **Jobs System** - Display roles with salary ranges
+- **Rules Section** - Organized by category and severity
+- **Team Showcase** - Mugshot-style staff presentation
+- **Media Gallery** - Polaroid-style screenshots
+- **Legal Pages** - GDPR-compliant privacy policy
+- **Bottom Navigation** - Mobile-friendly with server stats
 
-## 🚀 Quick Start Guide
-
-Get your server website up and running in minutes:
+## 🚀 Get Started in 3 Minutes
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/swisser-web-01.git
+# Clone the template
+git clone https://github.com/SwisserDev/swisser-web-03.git
 
-# Navigate to the project
-cd swisser-web-01/fivem-rp-template
-
-# Install dependencies
+# Install and run
+cd swisser-web-03
 npm install
-
-# Start development server
 npm run dev
-
-# Build for production
-npm run build
 ```
 
-Visit `http://localhost:5173` and watch your vision come to life!
+Your site is now live at `http://localhost:5173` ✨
 
-## 🎨 Customization Made Simple
+## 🌐 Deploy to GitHub Pages
 
-### 1. **Server Configuration**
-Edit `src/config/site.config.json` to personalize:
-- Server name and branding
-- Connection details
-- Social media links
-- Feature descriptions
-- Team members
-- Rules and requirements
+Push your code and let GitHub Actions handle the rest:
 
-### 🎮 **FiveM Server Integration**
+```bash
+git push origin main
+```
 
-#### Live Player Count & Direct Connect
-The template now supports live player data and direct server connection through the CFX.re API:
+Your site automatically deploys to: `https://[username].github.io/[repo-name]/`
 
-1. **Find Your Server Code**:
-   - Go to [servers.fivem.net](https://servers.fivem.net)
-   - Search for your server by IP (e.g., `45.131.108.179`)
-   - Your server URL will be: `https://servers.fivem.net/servers/detail/abc123`
-   - Copy `abc123` (your server code)
+## 🎮 FiveM Integration That Works
 
-2. **Configure in `site.config.json`**:
+### Connect Your Server in 30 Seconds
+
+1. Find your server on [servers.fivem.net](https://servers.fivem.net)
+2. Copy your server code from the URL
+3. Add it to `site.config.json`:
+
 ```json
 "api": {
-  "serverCode": "abc123",  // Replace with your server code
-  "cfxApiUrl": "https://servers-frontend.fivem.net/api/servers/single/",
-  "refreshInterval": 30000
+  "serverCode": "ymkax5"  // Your code here
 }
 ```
 
-3. **Features Enabled**:
-   - ✅ **Live Player Count** - Updates every 30 seconds from CFX.re API
-   - ✅ **Server Status** - Shows ONLINE/OFFLINE based on API response
-   - ✅ **Direct Connect** - "Connect to Server" button uses `fivem://connect/abc123`
-   - ✅ **No CORS Issues** - CFX.re API has proper CORS headers
+That's it! Your site now shows:
+- ✅ Live player count
+- ✅ Server online/offline status
+- ✅ Direct connect button
+- ✅ Auto-refresh every 30 seconds
 
-The Connect button will automatically use the FiveM protocol (`fivem://connect/`) with your server code, allowing players to join directly from their browser!
+## 🎨 Make It Yours
 
-### 2. **Visual Theming**
-Modify the color scheme in `tailwind.config.js`:
-- Primary and accent colors
-- Typography settings
-- Spacing and layouts
-- Animation preferences
+### Simple Configuration
+Everything is in one file: `src/config/site.config.json`
+- Server details and branding
+- Team members and roles
+- Jobs and salaries
+- Rules and categories
+- Social media links
+- Every single text label
 
-### 3. **Content Updates**
-Replace placeholder images in `/public/images/`:
-- Hero backgrounds
-- Gallery screenshots
-- Team avatars
-- Feature icons
+### Professional Image Hosting
+All images are hosted on Unsplash CDN:
+- No GitHub Pages path issues
+- Faster loading from global CDN
+- Professional stock photos included
+- Just replace URLs to customize
 
-## 🛠️ Technology Stack
+## 💪 What Makes V3 Special?
 
-Built with modern tools developers love:
+### The Street Aesthetic
+- Brutal design with urban elements
+- Graffiti tags and spray paint effects
+- Police tape and fingerprint patterns
+- Torn paper transitions between sections
 
-- **React 19.1** - Industry-standard UI library
-- **TypeScript** - Type-safe development experience
-- **Vite 7.1** - Next-generation build tooling
-- **Tailwind CSS 3.4** - Utility-first styling
-- **GSAP 3.13** - Professional-grade animations
-- **Framer Motion 12** - Declarative animations
-- **React Router 7** - Seamless navigation
+### Production-Ready Code
+- Clean, professional codebase
+- Build runs without warnings
+- TypeScript fully configured
+- Comprehensive .gitignore
 
-## 📦 Project Structure
+### Developer Experience
+- One-command deployment
+- Automated GitHub Actions
+- Type-safe development
+- Modern React 19.1
+
+## 🛠️ Tech Stack
+
+- **React 19.1** - Latest and greatest
+- **TypeScript** - Type-safe by default
+- **Vite 7.1** - Instant HMR
+- **Tailwind CSS** - Style at the speed of thought
+- **GSAP** - Hollywood-grade animations
+- **Framer Motion** - Smooth as butter
+
+## 📦 Clean Project Structure
 
 ```
-swisser-web-01/
-├── fivem-rp-template/
-│   ├── src/
-│   │   ├── components/     # Reusable UI components
-│   │   ├── config/         # Configuration files
-│   │   ├── hooks/          # Custom React hooks
-│   │   ├── pages/          # Page components
-│   │   ├── styles/         # Global styles
-│   │   └── utils/          # Utility functions
-│   ├── public/            # Static assets
-│   └── package.json       # Dependencies
+swisser-web-03/
+├── .github/workflows/    # Automated deployment
+├── src/
+│   ├── components/       # Modular components
+│   ├── config/          # Single config file
+│   └── pages/           # Route pages
+├── public/              # Static assets
+└── DEPLOYMENT.md        # Complete guide
 ```
 
-## 🌟 What Makes This Template Special?
+## 🤝 Join the Swisser Community
 
-### For Server Owners
-- **Professional appearance** that builds trust instantly
-- **Increased player retention** through engaging design
-- **Easy maintenance** with clear documentation
-- **Mobile-first approach** for players on-the-go
+We're not just selling templates—we're building a community of successful FiveM servers.
 
-### For Developers
-- **Clean codebase** following best practices
-- **Modular architecture** for easy extensions
-- **Type safety** preventing runtime errors
-- **Modern tooling** for efficient development
-
-## 🤝 Professional Support
-
-Created with passion by **Swisser Development** - we understand what FiveM communities need because we're part of the ecosystem ourselves.
-
-### Get Help & Connect
-- 💬 **Discord Support**: [swisser.dev/discord](https://swisser.dev/discord)
+### Get Direct Support
+- 💬 **Discord**: [swisser.dev/discord](https://swisser.dev/discord)
 - 📧 **Email**: support@swisser.dev
 - 🌐 **Website**: [swisser.dev](https://swisser.dev)
 
-Join our Discord community for:
-- Direct support from our development team
-- Template updates and new features
-- Customization tips and tricks
+### What You Get:
+- Direct support from our team
+- Free updates and improvements
 - Network with other server owners
-- Exclusive resources and guides
+- Early access to new templates
 
-## 📄 License
+## 💝 Support the Project
 
-This template is provided as open-source software. Feel free to modify and use it for your FiveM server. We'd appreciate a credit, but it's not required!
-
-## 💝 Show Your Support
-
-If Swisser-Web-01 helps your server grow, consider:
-- ⭐ Starring this repository
-- 🔄 Sharing with other server owners
-- 💬 Joining our Discord community
-- ☕ Supporting future development
+If Swisser-Web-03 helps your server grow:
+- ⭐ Star this repo
+- 🔄 Share with friends
+- 💬 Join our Discord
+- ☕ Buy us a coffee
 
 ---
 
 <div align="center">
-  <h3>Ready to Transform Your Server's Online Presence?</h3>
+  <h3>Ready to Level Up Your Server?</h3>
   <p>Join hundreds of successful FiveM servers using Swisser templates</p>
-  <a href="https://swisser.dev/discord"><strong>Get Started Today →</strong></a>
+  <a href="https://swisser.dev/discord"><strong>Get Started Now →</strong></a>
   <br><br>
-  <i>Built with ❤️ by Swisser Development Team</i>
+  <i>Built with ❤️ by Swisser Development</i>
 </div>
