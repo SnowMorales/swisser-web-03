@@ -47,7 +47,7 @@
     "description": "Experience the most immersive GTA V roleplay server with custom features, active community, and endless possibilities.",
     "ip": "play.nightcity-rp.com",
     "port": "30120",
-    "discord": "https://discord.gg/nightcity",
+    "discord": "https://discord.gg/fourtwenty",
     "maxPlayers": 256,
     "location": "Los Santos",
     "language": "English",
@@ -649,7 +649,7 @@
     "refreshInterval": 30000
   },
   "social": {
-    "discord": "https://discord.gg/nightcity",
+    "discord": "https://discord.gg/fourtwenty",
     "twitter": "https://twitter.com/nightcityrp",
     "youtube": "https://youtube.com/@nightcityrp",
     "tiktok": "https://tiktok.com/@nightcityrp",
