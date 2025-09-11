@@ -14,7 +14,7 @@
       "Los Santos",
       "Whitelist Server"
     ],
-    "ogImage": "/images/og-image.jpg",
+    "ogImage": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=1200&h=630&fit=crop",
     "twitterCard": "summary_large_image",
     "twitterHandle": "@nightcityrp",
     "favicon": "/favicon.ico",
@@ -77,8 +77,8 @@
       "character": "https://www.pngall.com/wp-content/uploads/5/GTA-V-PNG.png"
     },
     "defaults": {
-      "teamAvatar": "/images/team/default.jpg",
-      "galleryThumbnail": "/images/gallery/default.jpg"
+      "teamAvatar": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?w=400&h=400&fit=crop",
+      "galleryThumbnail": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop"
     }
   },
   "ui": {
@@ -240,7 +240,7 @@
     "images": [
       { 
         "id": 1, 
-        "src": "/images/gallery/1.jpg", 
+        "src": "https://images.unsplash.com/photo-1486428128344-5413e434ad35?w=800&h=600&fit=crop", 
         "alt": "City skyline at night", 
         "title": "Downtown Los Santos",
         "category": "locations",
@@ -248,7 +248,7 @@
       },
       { 
         "id": 2, 
-        "src": "/images/gallery/2.jpg", 
+        "src": "https://images.unsplash.com/photo-1593280405106-e438ebe93f5b?w=800&h=600&fit=crop", 
         "alt": "Police chase scene", 
         "title": "High Speed Chase",
         "category": "action",
@@ -256,7 +256,7 @@
       },
       { 
         "id": 3, 
-        "src": "/images/gallery/3.jpg", 
+        "src": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=800&h=600&fit=crop", 
         "alt": "Car meet event", 
         "title": "Weekly Car Meet",
         "category": "events",
@@ -264,7 +264,7 @@
       },
       { 
         "id": 4, 
-        "src": "/images/gallery/4.jpg", 
+        "src": "https://images.unsplash.com/photo-1547447134-cd3f5c716030?w=800&h=600&fit=crop", 
         "alt": "Racing event", 
         "title": "Street Racing",
         "category": "events",
@@ -272,7 +272,7 @@
       },
       { 
         "id": 5, 
-        "src": "/images/gallery/5.jpg", 
+        "src": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&h=600&fit=crop", 
         "alt": "Roleplay scenario", 
         "title": "Bank Heist RP",
         "category": "roleplay",
@@ -280,7 +280,7 @@
       },
       { 
         "id": 6, 
-        "src": "/images/gallery/6.jpg", 
+        "src": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&h=600&fit=crop", 
         "alt": "Community gathering", 
         "title": "Community Event",
         "category": "events",
@@ -288,7 +288,7 @@
       },
       { 
         "id": 7, 
-        "src": "/images/gallery/7.jpg", 
+        "src": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=600&fit=crop", 
         "alt": "Custom vehicles", 
         "title": "Custom Rides",
         "category": "vehicles",
@@ -296,7 +296,7 @@
       },
       { 
         "id": 8, 
-        "src": "/images/gallery/8.jpg", 
+        "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=600&fit=crop", 
         "alt": "Server event", 
         "title": "Special Event",
         "category": "events",
@@ -365,7 +365,7 @@
         "description": "Protect and serve the city, maintain law and order",
         "requirements": ["18+ years old", "Clean record", "Interview required"],
         "salary": 300,
-        "image": "/images/jobs/police.jpg"
+        "image": "https://images.unsplash.com/photo-1596265371388-43edbaadab94?w=600&h=400&fit=crop"
       },
       {
         "id": "ems",
@@ -374,7 +374,7 @@
         "description": "Save lives and provide medical care in the streets",
         "requirements": ["16+ years old", "Medical training", "Active player"],
         "salary": 250,
-        "image": "/images/jobs/ems.jpg"
+        "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=600&h=400&fit=crop"
       },
       {
         "id": "mechanic",
@@ -383,7 +383,7 @@
         "description": "Fix rides and customize whips for the streets",
         "requirements": ["No requirements", "Training provided"],
         "salary": 150,
-        "image": "/images/jobs/mechanic.jpg"
+        "image": "https://images.unsplash.com/photo-1615906655593-ad0386982a0f?w=600&h=400&fit=crop"
       },
       {
         "id": "taxi",
@@ -392,7 +392,7 @@
         "description": "Transport citizens around the city",
         "requirements": ["Valid license", "Clean driving record"],
         "salary": 100,
-        "image": "/images/jobs/taxi.jpg"
+        "image": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=600&h=400&fit=crop"
       },
       {
         "id": "dealer",
@@ -401,7 +401,7 @@
         "description": "Push product and control the corners",
         "requirements": ["Street reputation", "Gang affiliation"],
         "salary": 500,
-        "image": "/images/jobs/dealer.jpg"
+        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop"
       },
       {
         "id": "gunrunner",
@@ -410,7 +410,7 @@
         "description": "Supply heat to the streets",
         "requirements": ["Connections", "Trust level"],
         "salary": 500,
-        "image": "/images/jobs/gunrunner.jpg"
+        "image": "https://images.unsplash.com/photo-1595590424283-b8f17842773f?w=600&h=400&fit=crop"
       },
       {
         "id": "lawyer",
@@ -419,7 +419,7 @@
         "description": "Keep criminals out of jail and make bank",
         "requirements": ["Bar exam", "Good standing"],
         "salary": 350,
-        "image": "/images/jobs/lawyer.jpg"
+        "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&h=400&fit=crop"
       },
       {
         "id": "judge",
@@ -428,7 +428,7 @@
         "description": "Decide the fate of Los Santos criminals",
         "requirements": ["Legal experience", "Application required"],
         "salary": 500,
-        "image": "/images/jobs/judge.jpg"
+        "image": "https://images.unsplash.com/photo-1436450412740-6b988f486c6b?w=600&h=400&fit=crop"
       },
       {
         "id": "doctor",
@@ -437,7 +437,7 @@
         "description": "Provide advanced medical care at the hospital",
         "requirements": ["Medical license", "Experience required"],
         "salary": 400,
-        "image": "/images/jobs/doctor.jpg"
+        "image": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=600&h=400&fit=crop"
       },
       {
         "id": "nurse",
@@ -446,7 +446,7 @@
         "description": "Assist doctors and care for patients",
         "requirements": ["16+ years old", "Training provided"],
         "salary": 200,
-        "image": "/images/jobs/nurse.jpg"
+        "image": "https://images.unsplash.com/photo-1621604603003-c324e1fb667d?w=600&h=400&fit=crop"
       },
       {
         "id": "auto_mechanic",
@@ -455,7 +455,7 @@
         "description": "Repair and upgrade vehicles for the community",
         "requirements": ["Basic knowledge", "Tools provided"],
         "salary": 180,
-        "image": "/images/jobs/auto_mechanic.jpg"
+        "image": "https://images.unsplash.com/photo-1625047509168-a7026f36de04?w=600&h=400&fit=crop"
       }
     ]
   },
@@ -606,7 +606,7 @@
       "id": "john-doe",
       "name": "John 'Boss' Doe",
       "role": "Server Owner",
-      "avatar": "/images/team/avatar1.jpg",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
       "discord": "bigboss",
       "description": "Running this operation since day one",
       "badge": "OG",
@@ -616,7 +616,7 @@
       "id": "jane-smith",
       "name": "Jane 'Control' Smith",
       "role": "Head Admin",
-      "avatar": "/images/team/avatar2.jpg",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
       "discord": "control",
       "description": "Keeping the streets clean and fair",
       "badge": "ADMIN",
@@ -626,7 +626,7 @@
       "id": "mike-wilson",
       "name": "Mike 'Tech' Wilson",
       "role": "Developer",
-      "avatar": "/images/team/avatar3.jpg",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
       "discord": "techguy",
       "description": "Building the tech that runs the streets",
       "badge": "DEV",
@@ -636,7 +636,7 @@
       "id": "sarah-jones",
       "name": "Sarah 'Peace' Jones",
       "role": "Moderator",
-      "avatar": "/images/team/avatar4.jpg",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
       "discord": "peacekeeper",
       "description": "First response to street problems",
       "badge": "MOD",
