@@ -1,7 +1,7 @@
 {
   "seo": {
-    "title": "NightCity Roleplay - Premium GTA V FiveM RP Server",
-    "shortTitle": "NightCity RP",
+    "title": "Diamond District - Premium GTA V FiveM RP Server",
+    "shortTitle": "Diamond District RP",
     "description": "Join the most immersive GTA V FiveM roleplay server. Custom framework, active community, realistic economy, and endless roleplay possibilities. Apply for whitelist today!",
     "keywords": [
       "FiveM", 
@@ -16,18 +16,18 @@
     ],
     "ogImage": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=1200&h=630&fit=crop",
     "twitterCard": "summary_large_image",
-    "twitterHandle": "@nightcityrp",
+    "twitterHandle": "@diamonddistrictrp",
     "favicon": "/favicon.ico",
     "themeColor": "#4A7C4E",
     "locale": "en_US",
-    "url": "https://nightcity-rp.com"
+    "url": "https://diamond-district.com"
   },
   "legal": {
-    "companyName": "NightCity Roleplay",
-    "email": "contact@nightcity-rp.com",
-    "privacyEmail": "privacy@nightcity-rp.com",
-    "dpoEmail": "dpo@nightcity-rp.com",
-    "supportEmail": "support@nightcity-rp.com",
+    "companyName": "Diamond District Roleplay",
+    "email": "contact@diamond-district.com",
+    "privacyEmail": "privacy@diamond-district.com",
+    "dpoEmail": "dpo@diamond-district.com",
+    "supportEmail": "support@diamond-district.com",
     "lastUpdated": "2025-01-01",
     "minAge": 16,
     "copyrightYear": 2025,
@@ -40,14 +40,14 @@
     }
   },
   "server": {
-    "name": "NightCity Roleplay",
-    "shortName": "NCRP",
+    "name": "Diamond District Roleplay",
+    "shortName": "DDRP",
     "tagline": "Where Stories Come Alive",
     "slogan": "From the Streets to the Penthouse",
     "description": "Experience the most immersive GTA V roleplay server with custom features, active community, and endless possibilities.",
-    "ip": "play.nightcity-rp.com",
+    "ip": "play.diamond-district.com",
     "port": "30120",
-    "discord": "https://discord.gg/fourtwenty",
+    "discord": "https://discord.gg/jehCCCXqcG",
     "maxPlayers": 256,
     "location": "Los Santos",
     "language": "English",
@@ -660,7 +660,7 @@
   },
   "whitelist": {
     "enabled": true,
-    "applicationUrl": "https://apply.nightcity-rp.com",
+    "applicationUrl": "https://apply.diamond-district.com",
     "requirements": [
       "Minimum age of 16 years",
       "Working microphone",
